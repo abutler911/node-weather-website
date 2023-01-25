@@ -56,6 +56,7 @@ input {
     font-size: 1.3rem;
     border-radius: 15px;
     margin-bottom: 15px;
+    width: 80%;
 }
 
 
@@ -75,12 +76,14 @@ input {
 }
 
 #message-1 {
+    text-align: start;
     margin-top: 10px;
     font-size: 1.2rem;
 
 }
 
 #message-2 {
+    text-align: start;
     margin-top: 10px;
     font-size: 1.2rem;
 }
