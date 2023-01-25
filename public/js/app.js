@@ -23,5 +23,3 @@ weatherForm.addEventListener("submit", (e) => {
     }
   );
 });
-
-console.log("Client side javascript");
